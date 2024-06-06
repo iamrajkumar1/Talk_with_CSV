@@ -8,7 +8,7 @@ import numpy as np
 import streamlit as st
 
 # Set your Cohere API key
-co = cohere.Client("Insert COHERE_API_KEY here!!!")
+co = cohere.Client("k4zNlpCx6RXdgvIOfEk2l66fnNiwAEfK1aGJuhwo")
 
     
 # Define the function to ask Cohere
